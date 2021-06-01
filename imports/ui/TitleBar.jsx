@@ -9,11 +9,4 @@ const TitleBar = ({ title }) => {
   );
 };
 
-TitleBar.propTypes = {
-  title: React.propTypes.string.isRequired,
-};
-
-TitleBar.defaultProps = {
-  title: "Default Title",
-};
 export default TitleBar;

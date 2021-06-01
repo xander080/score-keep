@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://xander080:eeqTuGMWc7bwrnr6P@SG-galaxycluster-38726.servers.mongodirector.com:27017,SG-galaxycluster-38727.servers.mongodirector.com:27017/score-keep-obz-meteorapp-com?replicaSet=RS-galaxycluster-0&ssl=true"
+    }
+  }
+}
